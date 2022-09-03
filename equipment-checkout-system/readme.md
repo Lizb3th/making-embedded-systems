@@ -22,5 +22,5 @@ The minimum requirement for this system is a contained unit that can:
 * Ethernet module
 
 ## Block diagram
-[Block Software Diagram](block-diagram.png)
+![Block Software Diagram](block-diagram.png)
 
