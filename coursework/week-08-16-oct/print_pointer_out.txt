@@ -1,0 +1,4 @@
+global un-init: 536871088
+global init: 536871092
+static in fn: 536871096
+var in fn: 537001920
